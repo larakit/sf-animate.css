@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-animate.css",
+    "description": "[Larakit] [staticfiles] animate.css ",
+    "license": "MIT",
+    "version": "3.5.1",
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
